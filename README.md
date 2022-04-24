@@ -1,5 +1,5 @@
-# IDE-Rust
-Rust language support for Atom-IDE, powered by [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer).
+# IDE-Dust
+Dust language support for Atom-IDE, powered by [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer).
 
 ## Features
  - Auto-completion
